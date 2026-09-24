@@ -1,2 +1,5 @@
 # Windows 复制文件时产生的 NTFS 备用数据流残留
 *:Zone.Identifier
+
+# JetBrains IDE 配置目录
+.idea/
